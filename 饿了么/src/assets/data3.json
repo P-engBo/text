@@ -1,0 +1,348 @@
+[
+	{
+		"til": "美食",
+		"imgUrl": "https://fuss10.elemecdn.com/7/d8/a867c870b22bc74c87c348b75528djpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "1",
+		"some": [
+			{
+				"name": "麦特派汉堡",
+				"imgUrl": "https://fuss10.elemecdn.com/5/30/3f7414d0e462e726ba0eab50c228fjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "11",
+				"prcie": 0
+			}, {
+				"name": "杨铭宇黄焖鸡米饭",
+				"imgUrl": "https://fuss10.elemecdn.com/d/bd/444ddbcba568fdde7e128a6f2416cjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "12"
+			}, {
+				"name": "味小煲",
+				"imgUrl": "https://fuss10.elemecdn.com/5/a2/61a33e988ae8cc402bee77fe4315cpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "13"
+			}
+		]
+	}, {
+		"til": "商超便利",
+		"imgUrl": "https://fuss10.elemecdn.com/c/7e/76a23eb90dada42528bc41499d6f8jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "2",
+		"some": [
+			{
+				"name": "世纪华联超市",
+				"imgUrl": "https://fuss10.elemecdn.com/1/e7/275c6e484784954e4eb0144acee57jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "14",
+				"prcie": 0
+			}, {
+				"name": "吉源超市",
+				"imgUrl": "https://fuss10.elemecdn.com/b/ba/5100163dbfd126bc18576a37d4d76jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "15"
+			}, {
+				"name": "华源超市",
+				"imgUrl": "https://fuss10.elemecdn.com/e/ce/77526c17d61f6c7dab86f32f5178ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "16"
+			}
+		]
+	}, {
+		"til": "水果",
+		"imgUrl": "https://fuss10.elemecdn.com/0/d0/dd7c960f08cdc756b1d3ad54978fdjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "3",
+		"some": [
+			{
+				"name": "天鲜郡果蔬超市",
+				"imgUrl": "https://fuss10.elemecdn.com/c/f1/14bbbe88774501ad6818d159c3af4jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "17"
+			}, {
+				"name": "果子汇水果超市",
+				"imgUrl": "https://fuss10.elemecdn.com/e/e8/fe2c315cdfa2f4566e3b6d19584c6png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "18"
+			}, {
+				"name": "果源美水果商店",
+				"imgUrl": "https://fuss10.elemecdn.com/8/4e/4d36c4b5609212dc3716e8e423ddapng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "19"
+			}
+		]
+	}, {
+		"til": "医药健康",
+		"imgUrl": "https://fuss10.elemecdn.com/7/0a/af108e256ebc9f02db599592ae655jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "4",
+		"some": [
+			{
+				"name": "坤晓堂大药房",
+				"imgUrl": "https://fuss10.elemecdn.com/c/ec/2a00368fd726c9b2b578e91eb03fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "20"
+			}, {
+				"name": "快方送药",
+				"imgUrl": "https://fuss10.elemecdn.com/8/51/747e3579ca110ccb7da531d81f48ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "21"
+			}, {
+				"name": "德瑞堂医药超市",
+				"imgUrl": "https://fuss10.elemecdn.com/f/79/ff0175a9ca995ff09c647f35ef62ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "22"
+			}
+		]
+	}, {
+		"til": "浪漫鲜花",
+		"imgUrl": "https://fuss10.elemecdn.com/3/01/c888acb2c8ba9e0c813f36ec9e90ajpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "5",
+		"some": [
+			{
+				"name": "卡罗拉鲜花",
+				"imgUrl": "https://fuss10.elemecdn.com/c/17/3c34f3082e2c942e7d5da8028f378jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "23"
+			}, {
+				"name": "爱里鲜花",
+				"imgUrl": "https://fuss10.elemecdn.com/f/70/4ea3356f934faeca7e21f44f3bfc8jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "24"
+			}, {
+				"name": "花乡鲜花",
+				"imgUrl": "https://fuss10.elemecdn.com/e/ff/e84b209b61bb0fc3f76a8d39b7b72jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "25"
+			}
+		]
+	}, {
+		"til": "汉堡披萨",
+		"imgUrl": "https://fuss10.elemecdn.com/b/7f/432619fb21a40b05cd25d11eca02djpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "6",
+		"some": [
+			{
+				"name": "麦当劳",
+				"imgUrl": "https://fuss10.elemecdn.com/6/89/a039e8ae3804f9e3ab0f6eb6f1428jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "26",
+				"prcie": null
+			}, {
+				"name": "肯德基宅急送",
+				"imgUrl": "https://fuss10.elemecdn.com/7/d3/48a777a6b444dc317cc24d101220cjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "27",
+				"prcie": 0
+			}, {
+				"name": "非尝披萨",
+				"imgUrl": "https://fuss10.elemecdn.com/0/78/a1ff5a967e578bee6614d93adf9fajpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "28"
+			}
+		]
+	}, {
+		"til": "厨房生鲜",
+		"imgUrl": "https://fuss10.elemecdn.com/c/21/e42997b86b232161a5a16ab813ae8jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "7",
+		"some": [
+			{
+				"name": "莱公社",
+				"imgUrl": "https://fuss10.elemecdn.com/6/41/c83d95f0da1f90c5169ff19ce0a2ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "29"
+			}, {
+				"name": "杨纪记元享鲜食材",
+				"imgUrl": "https://fuss10.elemecdn.com/1/d7/bc70266051a2b7f3bb9ae3df55b08jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "30"
+			}, {
+				"name": "润旭蔬菜",
+				"imgUrl": "https://fuss10.elemecdn.com/c/30/35d890a0230403499275748ace36fpng.png?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "31"
+			}
+		]
+	}, {
+		"til": "炸鸡炸串",
+		"imgUrl": "https://fuss10.elemecdn.com/a/78/0fb469b2da210827ec16896e00420jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "8",
+		"some": [
+			{
+				"name": "叫了个炸鸡",
+				"imgUrl": "https://fuss10.elemecdn.com/c/d2/7e3bb775c0397786cbc3c9f5951aajpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "32"
+			}, {
+				"name": "深宵",
+				"imgUrl": "https://fuss10.elemecdn.com/2/6d/466dae740949bc56c34bdb093bfe7jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "33"
+			}, {
+				"name": "贝克汉堡",
+				"imgUrl": "https://fuss10.elemecdn.com/d/21/32ceb1d79e6a85a3828f7ab991afajpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "34"
+			}
+		]
+	}, {
+		"til": "地方菜系",
+		"imgUrl": "https://fuss10.elemecdn.com/a/8a/ec21096d528b7cfd23cdd894f01c6jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "9",
+		"some": [
+			{
+				"name": "锦州烧烤",
+				"imgUrl": "https://fuss10.elemecdn.com/2/57/8f99af47bb00c4c2ecf9513dd5d5ejpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "35"
+			}, {
+				"name": "太熟悉家常菜",
+				"imgUrl": "https://fuss10.elemecdn.com/5/df/4677604884a71d14445439bd7504cjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "36",
+				"prcie": 0
+			}, {
+				"name": "佰思水饺",
+				"imgUrl": "https://fuss10.elemecdn.com/1/eb/20271daf0477643998897c3555b4fjpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "37"
+			}
+		]
+	}, {
+		"til": "麻辣烫",
+		"imgUrl": "https://fuss10.elemecdn.com/e/c7/b7ba9547aa700bd20d0420e1794a8jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+		"id": "10",
+		"some": [
+			{
+				"name": "杨国福麻辣烫",
+				"imgUrl": "https://fuss10.elemecdn.com/e/a5/6300131de6e879ca972c0f7e46435jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "38"
+			}, {
+				"name": "张亮麻辣烫",
+				"imgUrl": "https://fuss10.elemecdn.com/c/28/3413e89ba4b86df8a0aba06b79c67jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "39"
+			}, {
+				"name": "马玉涛麻辣烫",
+				"imgUrl": "https://fuss10.elemecdn.com/1/20/453cff7082f04ea4da98e676dd2fapng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+				"price": 20,
+				"juli": "1.52km | 29分钟",
+				"jian": "满10减5，满30减20，满100减20",
+				"te": "特价商品1元起",
+				"num": 0,
+				"id": "40"
+			}
+		]
+	}
+]
